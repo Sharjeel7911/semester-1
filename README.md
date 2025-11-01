@@ -1,6 +1,6 @@
 # Course Instructors
 
-## Introduction to Computing
+## Introduction to Computing 
 - **Lecture:** Muhammad Noman  
 - **Lab:** Qaisar Aslam
 
