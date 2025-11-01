@@ -1,10 +1,18 @@
-#Instructors
-Introduction to Computing: Muhammad Noman
-Lab: Qaisar Aslam
+# Course Instructors
 
-Basic Electronics: Mehak Kausar
-Lab: Qaisar Nadeem
+## Introduction to Computing
+- **Lecture:** Muhammad Noman  
+- **Lab:** Qaisar Aslam
 
-English I: Ayesha Asif
-Discrete Structures: Saba Naeem
-Idealogy & Constitution of Pakistan: Taimur Khan
+## Basic Electronics
+- **Lecture:** Mehak Kausar  
+- **Lab:** Qaisar Nadeem
+
+## English I
+- **Lecture:** Ayesha Asif
+
+## Discrete Structures
+- **Lecture:** Saba Naeem
+
+## Ideology & Constitution of Pakistan
+- **Lecture:** Taimur Khan
